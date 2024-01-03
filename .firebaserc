@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "short-link-creator-prod": {
+      "hosting": {
+        "short-link-creator": [
+          "short-link-creator-prod"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "short-link-creator-prod"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "short-link-creator",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}
